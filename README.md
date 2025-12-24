@@ -1,7 +1,7 @@
 # 💫 About Me
 
 Hi, I’m **Uttam Kumar** 👨‍💻  
-A **Java Developer & DSA Enthusiast**, currently learning **Full-Stack Development** and consistently improving my **problem-solving skills**.
+A **Computer Science student** passionate about **Java**, **Data Structures & Algorithms**, **problem-solving**, aspiring **Full-Stack Development**  and building strong fundamentals in core computer science.
 
 I enjoy breaking down complex concepts into simple logic and writing **clean, readable, and efficient code**.
 
