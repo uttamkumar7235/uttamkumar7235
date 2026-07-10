@@ -37,9 +37,9 @@ I enjoy breaking down complex concepts into simple logic and writing **clean, re
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=uttamkumar7235&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=uttamkumar7235&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uttamkumar7235&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=uttamkumar7235&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=uttamkumar7235&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=uttamkumar7235&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
