@@ -65,12 +65,4 @@ I enjoy breaking down complex concepts into simple logic and writing **clean, re
 
 ---
 
-## ☕ Support My Work
-
-If my projects or explanations help you, consider supporting me:
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/uttamcodes)
-
----
-
 ⭐ *If you find my work helpful, don’t forget to star the repositories!*
